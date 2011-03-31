@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse-pydev version="1.0"?>
+
+<pydev_project>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">python2.6</pydev_property>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python 3.0</pydev_property>
+<pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+<path>/Comment_Tree_Analysis/src</path>
+</pydev_pathproperty>
+<pydev_pathproperty name="org.python.pydev.PROJECT_EXTERNAL_SOURCE_PATH">
+<path>/Users/johndoty/Documents/workspace/Data_Aggregation/src/couchdb_functions.py</path>
+<path>/Users/johndoty/Documents/workspace/Data_Aggregation/src</path>
+<path>/Users/johndoty/Documents/Libraries_Languages/python_modules/python_eggs/networkx-1.4-py2.6.egg</path>
+<path>/Users/johndoty/Documents/Libraries_Languages/python_modules/python_eggs/networkx-1.4-py2.7.egg</path>
+<path>/Users/johndoty/Documents/Libraries_Languages/python_modules/python_eggs/Pyevolve-0.5-py2.6.egg</path>
+<path>/Users/johndoty/Documents/Libraries_Languages/python_modules/python_eggs/CouchDB-0.8-py2.6.egg</path>
+</pydev_pathproperty>
+</pydev_project>
